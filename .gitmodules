@@ -1,0 +1,39 @@
+[submodule "Clima-Flutter"]
+	path = Clima-Flutter
+	url = /Clima-Flutter
+[submodule "Navigation-Flutter-Demo"]
+	path = Navigation-Flutter-Demo
+	url = /Navigation-Flutter-Demo
+[submodule "bitcoin-ticker-flutter"]
+	path = bitcoin-ticker-flutter
+	url = /bitcoin-ticker-flutter
+[submodule "bmi-calculator-flutter"]
+	path = bmi-calculator-flutter
+	url = /bmi-calculator-flutter
+[submodule "destini-challenge-starting"]
+	path = destini-challenge-starting
+	url = /destini-challenge-starting
+[submodule "dicee-flutter"]
+	path = dicee-flutter
+	url = /dicee-flutter
+[submodule "flash-chat-flutter"]
+	path = flash-chat-flutter
+	url = /flash-chat-flutter
+[submodule "magic-8-ball-flutter"]
+	path = magic-8-ball-flutter
+	url = /magic-8-ball-flutter
+[submodule "mi_card_flutter"]
+	path = mi_card_flutter
+	url = /mi_card_flutter
+[submodule "quizzler-flutter"]
+	path = quizzler-flutter
+	url = /quizzler-flutter
+[submodule "todo_flutter"]
+	path = todo_flutter
+	url = /todo_flutter
+[submodule "todoey-flutter"]
+	path = todoey-flutter
+	url = /todoey-flutter
+[submodule "xylophone-flutter"]
+	path = xylophone-flutter
+	url = /xylophone-flutter

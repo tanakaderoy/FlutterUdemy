@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "277868613904",
+    "firebase_url": "https://flash-chat-37991.firebaseio.com",
+    "project_id": "flash-chat-37991",
+    "storage_bucket": "flash-chat-37991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277868613904:android:8288036405da96090a1595",
+        "android_client_info": {
+          "package_name": "com.tanakamazivanhanga.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277868613904-k03hkgjba6ta11ld2qlda0v2cma0118v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmMLtTC2ds2Hi9u7bbBE8kbulJ-X3ES1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277868613904-k03hkgjba6ta11ld2qlda0v2cma0118v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277868613904-7pv4lfa4uca67gkoi2g07cje2nqlfi8o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TanakaMazivanhanga.Flash-Chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
